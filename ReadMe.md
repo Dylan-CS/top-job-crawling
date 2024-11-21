@@ -9,5 +9,6 @@ The reptile practices below are all based on crawling recruitment information fr
 (4) According to the job requirements crawled in (3), the job requirement data is cleaned, and steps such as word segmentation, special symbol removal, and stop word removal are taken to remove information that is not valuable for the current job requirement in the data. Key words are required for the post-cleaned data extraction.    
 
 The results:    
-![image](https://github.com/Dylan-CS/Data_Crawling/blob/main/img_md/1.png)    
-![image](https://github.com/Dylan-CS/Data_Crawling/blob/main/img_md/2.png)
+top-job-crawling/tree/main/img_md
+![image](https://github.com/Dylan-CS/top-job-crawling/tree/main/img_md/1.png)    
+![image](https://github.com/Dylan-CS/top-job-crawling/tree/main/img_md/2.png)
